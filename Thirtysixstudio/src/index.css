@@ -1,0 +1,23 @@
+@import "locomotive-scroll/dist/locomotive-scroll.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  /* overflow: hidden; */
+  background-color: black;
+  /* background-color: black; */
+  color: white;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+* {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
