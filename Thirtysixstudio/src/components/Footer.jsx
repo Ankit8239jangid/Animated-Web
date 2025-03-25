@@ -64,7 +64,7 @@ function Footer() {
           </div>
 
           {/* Right Section */}
-          <div className="grid grid-cols-1 gap-8 text-center lg:grid-cols-3 lg:text-left">
+          <div className="grid grid-cols-3 gap-8 text- lg:grid-cols-3 lg:text-left">
             <div>
               <strong className="font-semibold ">Services</strong>
               <ul className="mt-4 space-y-2 ">
