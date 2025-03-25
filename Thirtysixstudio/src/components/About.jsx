@@ -168,44 +168,6 @@ export default function AboutPage() {
           </dl>
         </section>
       </main>
-
-      <footer className="">
-        <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div>
-              <h3 className="text-sm font-semibold tracking-wider uppercase">About Us</h3>
-              <ul className="mt-4 space-y-4">
-                <li><a href="#" className="text-base hover:text-white">Company</a></li>
-                <li><a href="#" className="text-base hover:text-white">Team</a></li>
-                <li><a href="#" className="text-base hover:text-white">Careers</a></li>
-              </ul>
-            </div>
-            <div>
-              <h3 className="text-sm font-semibold tracking-wider uppercase">Services</h3>
-              <ul className="mt-4 space-y-4">
-                {services.map((service) => (
-                  <li key={service.name}>
-                    <a href="#" className="text-base hover:text-white">{service.name}</a>
-                  </li>
-                ))}
-              </ul>
-            </div>
-            <div>
-              <h3 className="text-sm font-semibold tracking-wider uppercase">Connect</h3>
-              <ul className="mt-4 space-y-4">
-                <li><a href="#" className="text-base hover:text-white">Contact Us</a></li>
-                <li><a href="#" className="text-base hover:text-white">Newsletter</a></li>
-                <li><a href="#" className="text-base hover:text-white">Social Media</a></li>
-              </ul>
-            </div>
-          </div>
-          <div className="mt-8 border-t border-gray-700 pt-8">
-            <p className="text-base xl:text-center">
-              © 2023 Thirtysixstudio. All rights reserved.
-            </p>
-          </div>
-        </div>
-      </footer>
     </div>
   )
 }
