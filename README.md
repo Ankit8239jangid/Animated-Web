@@ -21,7 +21,7 @@ Welcome to the **Animated Web Projects** repository! 🚀 This repo is a collect
 | **Frameworks** | **Animation Libraries** | **Styling** |  
 |----------------|--------------------------|-------------|  
 | React.js       | GSAP, Framer Motion      | Tailwind CSS, SCSS |  
-| Next.js        | Locomotive Scroll        | Styled Components |  
+  
 
 ---
 
