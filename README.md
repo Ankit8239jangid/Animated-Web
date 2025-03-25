@@ -1,5 +1,5 @@
 
-# 🌟 Animated Web Projects
+# 🌟 Animated Web Projects [Live Preview](https://thirtysixstudio-by-ankit.vercel.app/)
 
 Welcome to the **Animated Web Projects** repository! 🚀 This repo is a collection of all my creative and interactive web projects, showcasing animations, transitions, and dynamic designs.  
 
